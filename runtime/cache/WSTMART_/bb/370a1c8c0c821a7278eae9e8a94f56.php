@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:4:{i:0;a:4:{s:6:"shopId";i:28;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4b5d7e9be1.jpg";s:8:"shopName";s:39:"东莞市大卫之星贸易有限公司";s:5:"catId";i:48;}i:1;a:4:{s:6:"shopId";i:30;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4be6e0a16e.jpg";s:8:"shopName";s:33:"一点创业品质生活专营店";s:5:"catId";i:48;}i:2;a:4:{s:6:"shopId";i:40;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4cbdaa07b4.jpg";s:8:"shopName";s:12:"珍草物语";s:5:"catId";i:48;}i:3;a:4:{s:6:"shopId";i:45;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4d43e14214.jpg";s:8:"shopName";s:24:"极简爱家纺旗舰店";s:5:"catId";i:48;}}

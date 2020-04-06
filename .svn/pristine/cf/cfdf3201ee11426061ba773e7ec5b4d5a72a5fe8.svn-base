@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:4:{i:0;a:8:{s:4:"adId";i:48;s:6:"adName";s:3:"121";s:5:"adURL";s:0:"";s:8:"subTitle";s:0:"";s:6:"adFile";s:39:"upload/adspic/2018-09/5b8ccb306814e.png";s:13:"positionWidth";i:125;s:14:"positionHeight";i:105;s:6:"isOpen";b:0;}i:1;a:8:{s:4:"adId";i:60;s:6:"adName";s:2:"12";s:5:"adURL";s:0:"";s:8:"subTitle";s:0:"";s:6:"adFile";s:39:"upload/adspic/2018-08/5b8633544397a.jpg";s:13:"positionWidth";i:125;s:14:"positionHeight";i:105;s:6:"isOpen";b:0;}i:2;a:8:{s:4:"adId";i:61;s:6:"adName";s:3:"121";s:5:"adURL";s:0:"";s:8:"subTitle";s:0:"";s:6:"adFile";s:39:"upload/adspic/2018-08/5b863366c66ff.jpg";s:13:"positionWidth";i:125;s:14:"positionHeight";i:105;s:6:"isOpen";b:0;}i:3;a:8:{s:4:"adId";i:62;s:6:"adName";s:4:"1212";s:5:"adURL";s:0:"";s:8:"subTitle";s:0:"";s:6:"adFile";s:39:"upload/adspic/2018-09/5b8ccb62d8733.png";s:13:"positionWidth";i:125;s:14:"positionHeight";i:105;s:6:"isOpen";b:0;}}

@@ -1,0 +1,34 @@
+{extend name="base" /}
+{block name="js"}
+<script src="__ADMIN__/goods/goods.js?v={$v}" type="text/javascript"></script>
+{/block}
+{block name="main"}
+<h3 class="text-center"> 编辑商品信息 </h3>
+<form id="goodsForm" autocomplete="off">
+  <div class="form-group">
+    <label class="col-sm-2 control-label">商品名称：</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="goodsName" value="{$goodsInfo.goodsName}">
+    </div>
+  </div>
+  <tr>
+    <div class="form-group">
+    <label class="col-sm-2 control-label">商品名称：</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="goodsName" value="{$goodsInfo.goodsName}">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="col-sm-2 control-label">商品名称：</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="goodsName" value="{$goodsInfo.goodsName}">
+    </div>
+  </div>
+  <tr>
+     <td colspan='2' class='wst-bottombar' style="text-align:center">
+       <button type="submit"  class='btn btn-primary btn-mright'><i class="fa fa-check"></i>提交</button>
+       <button type="button" onclick="javascript:history.go(-1)" class='btn'><i class="fa fa-angle-double-left"></i>返回</button>
+     </td>
+  </tr>
+</form>
+{/block}

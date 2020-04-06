@@ -1,0 +1,16 @@
+<?php
+// +----------------------------------------------------------------------
+// | 日志设置
+// +----------------------------------------------------------------------
+use think\facade\Env;
+return [
+    // 日志记录方式，内置 file socket 支持扩展
+    'type'  => 'File',
+    // 日志记录级别
+    'level' => [],
+    // 日志保存目录
+    'path'  => Env::get('runtime_path') . 'log/',
+    'apart_level' => ['log', 'error', 'info', 'sql', 'notice', 'alert', 'debug'],
+    //单独日志
+    'apart_level' => ['log', 'error', 'sql']
+];

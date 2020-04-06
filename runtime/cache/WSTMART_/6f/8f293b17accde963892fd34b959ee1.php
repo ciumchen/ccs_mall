@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:6:{i:0;a:4:{s:7:"brandId";i:3;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba0730030af8.jpg";s:9:"brandName";s:9:"威露士";s:5:"catId";i:48;}i:1;a:4:{s:7:"brandId";i:4;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba0730eb72ac.jpg";s:9:"brandName";s:9:"蓝月亮";s:5:"catId";i:48;}i:2;a:4:{s:7:"brandId";i:5;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba073af1db1d.jpg";s:9:"brandName";s:6:"雕牌";s:5:"catId";i:48;}i:3;a:4:{s:7:"brandId";i:59;s:8:"brandImg";s:39:"upload/brands/2018-10/5bd6c127765e3.png";s:9:"brandName";s:6:"德铂";s:5:"catId";i:48;}i:4;a:4:{s:7:"brandId";i:65;s:8:"brandImg";s:39:"upload/brands/2018-11/5bda6bc38cfa4.jpg";s:9:"brandName";s:12:"维科家纺";s:5:"catId";i:48;}i:5;a:4:{s:7:"brandId";i:69;s:8:"brandImg";s:39:"upload/brands/2018-11/5bdc079578232.png";s:9:"brandName";s:6:"蕉下";s:5:"catId";i:48;}}

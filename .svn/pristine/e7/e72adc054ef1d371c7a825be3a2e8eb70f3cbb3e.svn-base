@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:4:{i:0;a:4:{s:7:"brandId";i:2;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba072754e24c.jpg";s:9:"brandName";s:6:"维达";s:5:"catId";i:48;}i:1;a:4:{s:7:"brandId";i:3;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba0730030af8.jpg";s:9:"brandName";s:9:"威露士";s:5:"catId";i:48;}i:2;a:4:{s:7:"brandId";i:4;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba0730eb72ac.jpg";s:9:"brandName";s:9:"蓝月亮";s:5:"catId";i:48;}i:3;a:4:{s:7:"brandId";i:5;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba073af1db1d.jpg";s:9:"brandName";s:6:"雕牌";s:5:"catId";i:48;}}

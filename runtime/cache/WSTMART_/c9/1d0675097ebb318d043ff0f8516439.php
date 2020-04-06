@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:6:{i:0;a:4:{s:7:"brandId";i:1;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba072e39145e.jpg";s:9:"brandName";s:6:"华为";s:5:"catId";i:334;}i:1;a:4:{s:7:"brandId";i:11;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba0735ead19d.jpg";s:9:"brandName";s:12:"华为荣耀";s:5:"catId";i:334;}i:2;a:4:{s:7:"brandId";i:44;s:8:"brandImg";s:39:"upload/brands/2018-09/5badded590a5c.jpg";s:9:"brandName";s:9:"爱华仕";s:5:"catId";i:334;}i:3;a:4:{s:7:"brandId";i:63;s:8:"brandImg";s:39:"upload/brands/2018-10/5bd97c8476ab6.png";s:9:"brandName";s:6:"唯加";s:5:"catId";i:334;}i:4;a:4:{s:7:"brandId";i:76;s:8:"brandImg";s:39:"upload/brands/2018-11/5bea89cf25bf4.jpg";s:9:"brandName";s:28:"卡帝乐鳄鱼（CARTELO）";s:5:"catId";i:334;}i:5;a:4:{s:7:"brandId";i:82;s:8:"brandImg";s:39:"upload/brands/2019-01/5c2ecb4457d38.jpg";s:9:"brandName";s:6:"朗微";s:5:"catId";i:334;}}

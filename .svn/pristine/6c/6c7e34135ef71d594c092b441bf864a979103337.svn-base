@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:1:{i:0;a:15:{s:9:"goodsTips";s:0:"";s:8:"shopName";s:15:"大数据专场";s:6:"shopId";i:1;s:7:"goodsId";i:73;s:9:"goodsName";s:109:"礼品箱包-奢侈品【良品铺子甘栗80g】熟制板栗仁特产零食栗子仁坚果干果即食食品";s:8:"goodsImg";s:38:"upload/goods/2018-08/5b866610625f4.jpg";s:7:"goodsSn";s:15:"153553457583788";s:10:"goodsStock";i:1450;s:7:"saleNum";i:0;s:9:"shopPrice";s:4:"1.00";s:11:"marketPrice";s:4:"1.00";s:6:"isSpec";i:0;s:11:"appraiseNum";i:0;s:8:"visitNum";i:1;s:5:"isNew";i:0;}}

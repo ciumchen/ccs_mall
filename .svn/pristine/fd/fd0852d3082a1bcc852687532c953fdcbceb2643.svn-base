@@ -1,0 +1,55 @@
+{extend name="base" /}
+{block name="js"}
+<script src="__ADMIN__/goods/goods.js?v={$v}" type="text/javascript"></script>
+{/block}
+{block name="main"}
+<h3 class="text-center"> 编辑商品信息 </h3>
+<form id="goodsForm" autocomplete="off">
+  <div>
+    <label class="col-sm-2 control-label">商品名称：</label>
+    <div>{$goodsInfo['goodsName']}</div>
+  </div>
+  <tr>
+    <th>商品编号：</th>
+      <td>{$goodsInfo['goodsSn']}</td>
+  </tr>
+  <tr>
+    <th>市场价格：</th>
+      <td>{$goodsInfo['marketPrice']}</td>
+  </tr>
+  <tr>
+    <th>店铺价格：</th>
+      <td>{$goodsInfo['shopPrice']}</td>
+  </tr>
+  <tr>
+    <th>供货价格：</th>
+      <td>{$goodsInfo['supplyPrice']}</td>
+  </tr>
+  <div class="form-group">
+    <label class="col-sm-2 control-label">商品积分：</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="goodsPoint" value="{$goodsInfo.goodsPoint}">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="col-sm-2 control-label">商品奖金：</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="goodsReward" value="{$goodsInfo.goodsReward}">
+    </div>
+  </div>
+  <div class="form-group">
+    <label class="col-sm-2 control-label">销量：</label>
+    <div class="col-sm-10">
+      <input type="text" class="form-control" name="saleNum" value="{$goodsInfo.saleNum}">
+    </div>
+  </div>
+  <div>
+    <tr>
+       <td colspan='2' class='wst-bottombar' style="text-align:center">
+         <button type="submit"  class='btn btn-primary btn-mright'><i class="fa fa-check"></i>提交</button>
+         <button type="button" onclick="javascript:history.go(-1)" class='btn'><i class="fa fa-angle-double-left"></i>返回</button>
+       </td>
+    </tr>
+</div>
+</form>
+{/block}

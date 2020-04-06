@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:4:{i:0;a:4:{s:6:"shopId";i:31;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4c0034dfa9.jpg";s:8:"shopName";s:39:"北京仁福汇健康管理有限公司";s:5:"catId";i:53;}i:1;a:4:{s:6:"shopId";i:32;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4c23c40930.jpg";s:8:"shopName";s:36:"深圳市吉祥瑞工贸有限公司";s:5:"catId";i:53;}i:2;a:4:{s:6:"shopId";i:33;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4c44498aa2.jpg";s:8:"shopName";s:36:"北京三奇电子商务有限公司";s:5:"catId";i:53;}i:3;a:4:{s:6:"shopId";i:46;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba990b1ae3c5.jpg";s:8:"shopName";s:21:"朵肤牌祛斑胶囊";s:5:"catId";i:53;}}

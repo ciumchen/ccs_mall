@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:4:{i:0;a:4:{s:6:"shopId";i:30;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4be6e0a16e.jpg";s:8:"shopName";s:33:"一点创业品质生活专营店";s:5:"catId";i:50;}i:1;a:4:{s:6:"shopId";i:31;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4c0034dfa9.jpg";s:8:"shopName";s:39:"北京仁福汇健康管理有限公司";s:5:"catId";i:50;}i:2;a:4:{s:6:"shopId";i:34;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4c4f6dbac9.jpg";s:8:"shopName";s:12:"感官密码";s:5:"catId";i:50;}i:3;a:4:{s:6:"shopId";i:37;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4c903c9aa4.jpg";s:8:"shopName";s:24:"黛迷雅官方旗舰店";s:5:"catId";i:50;}}

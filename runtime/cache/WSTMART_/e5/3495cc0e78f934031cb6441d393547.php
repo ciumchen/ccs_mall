@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:6:{i:0;a:4:{s:7:"brandId";i:31;s:8:"brandImg";s:39:"upload/brands/2018-09/5bab56bd7ba50.png";s:9:"brandName";s:6:"沁园";s:5:"catId";i:55;}i:1;a:4:{s:7:"brandId";i:45;s:8:"brandImg";s:39:"upload/brands/2018-09/5baf6b614b45c.jpg";s:9:"brandName";s:9:"万家乐";s:5:"catId";i:55;}i:2;a:4:{s:7:"brandId";i:46;s:8:"brandImg";s:39:"upload/brands/2018-09/5baf6b8b1d9be.jpg";s:9:"brandName";s:6:"美的";s:5:"catId";i:55;}i:3;a:4:{s:7:"brandId";i:47;s:8:"brandImg";s:39:"upload/brands/2018-09/5baf6bb320b3a.jpg";s:9:"brandName";s:9:"荣事达";s:5:"catId";i:55;}i:4;a:4:{s:7:"brandId";i:48;s:8:"brandImg";s:39:"upload/brands/2018-09/5baf70089a1ff.jpg";s:9:"brandName";s:5:"beats";s:5:"catId";i:55;}i:5;a:4:{s:7:"brandId";i:49;s:8:"brandImg";s:39:"upload/brands/2018-09/5baf7029e5f2a.jpg";s:9:"brandName";s:4:"bose";s:5:"catId";i:55;}}

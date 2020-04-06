@@ -1,0 +1,51 @@
+---------------------------------------------------------------
+[ 2018-11-04T14:47:22+08:00 ] 127.0.0.1 GET /admin/index/login.html
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:47:28+08:00 ] 127.0.0.1 GET /admin/index/login.html
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:47:32+08:00 ] 127.0.0.1 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:47:34+08:00 ] 127.0.0.1 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:47:35+08:00 ] 127.0.0.1 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:49:10+08:00 ] 127.0.0.1 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:49:11+08:00 ] 127.0.0.1 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:49:49+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:50:38+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:50:49+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:51:34+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:51:53+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:52:15+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:52:59+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:53:07+08:00 ] 127.0.0.1 GET /mall/
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:54:27+08:00 ] 127.0.0.1 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+---------------------------------------------------------------
+[ 2018-11-04T14:54:36+08:00 ] 127.0.0.1 GET /
+[ error ] [1045]SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)

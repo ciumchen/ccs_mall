@@ -1,0 +1,9 @@
+app_namespace=wstmart
+app_debug=false
+app_trace=false
+hostname=119.29.87.200
+database=mall
+username=mall
+password=mall
+hostport=3306
+member_sys_domain=http://www.memeber.com

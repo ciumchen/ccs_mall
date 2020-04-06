@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:3:{i:0;a:4:{s:6:"shopId";i:11;s:7:"shopImg";s:38:"upload/shops/2016-10/57fc85b7c6bb4.jpg";s:8:"shopName";s:21:"华为荣耀旗舰店";s:5:"catId";i:334;}i:1;a:4:{s:6:"shopId";i:1;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba484bc293d0.png";s:8:"shopName";s:15:"大数据专场";s:5:"catId";i:334;}i:2;a:4:{s:6:"shopId";i:28;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4b5d7e9be1.jpg";s:8:"shopName";s:39:"东莞市大卫之星贸易有限公司";s:5:"catId";i:334;}}

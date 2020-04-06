@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:6:{i:0;a:4:{s:7:"brandId";i:8;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba072048faba.png";s:9:"brandName";s:9:"福临门";s:5:"catId";i:50;}i:1;a:4:{s:7:"brandId";i:9;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba072f23aa44.jpg";s:9:"brandName";s:15:"鲁花花生油";s:5:"catId";i:50;}i:2;a:4:{s:7:"brandId";i:10;s:8:"brandImg";s:39:"upload/brands/2018-08/5b8659c12ba41.png";s:9:"brandName";s:9:"金龙鱼";s:5:"catId";i:50;}i:3;a:4:{s:7:"brandId";i:28;s:8:"brandImg";s:39:"upload/brands/2018-09/5b8f3eae13286.jpg";s:9:"brandName";s:12:"蚕丝精油";s:5:"catId";i:50;}i:4;a:4:{s:7:"brandId";i:66;s:8:"brandImg";s:39:"upload/brands/2018-11/5bdad1672e864.png";s:9:"brandName";s:8:"Dr.Jart+";s:5:"catId";i:50;}i:5;a:4:{s:7:"brandId";i:67;s:8:"brandImg";s:39:"upload/brands/2018-11/5bdad1b3c4f61.png";s:9:"brandName";s:8:"Herbacin";s:5:"catId";i:50;}}

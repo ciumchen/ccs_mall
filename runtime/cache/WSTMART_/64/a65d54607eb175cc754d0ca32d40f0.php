@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:4:{i:0;a:4:{s:6:"shopId";i:28;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba4b5d7e9be1.jpg";s:8:"shopName";s:39:"东莞市大卫之星贸易有限公司";s:5:"catId";i:334;}i:1;a:4:{s:6:"shopId";i:53;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba9d4db2a16e.jpg";s:8:"shopName";s:28:"爱华仕拉杆箱 膳魔师";s:5:"catId";i:334;}i:2;a:4:{s:6:"shopId";i:63;s:7:"shopImg";s:38:"upload/shops/2018-09/5ba9e49259b6e.jpg";s:8:"shopName";s:6:"梁霞";s:5:"catId";i:334;}i:3;a:4:{s:6:"shopId";i:93;s:7:"shopImg";s:38:"upload/shops/2018-09/5bae2d9c8b9b1.jpg";s:8:"shopName";s:30:"广州毅晋贸易有限公司";s:5:"catId";i:334;}}

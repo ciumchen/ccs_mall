@@ -1,0 +1,19 @@
+{extend name="base" /}
+{block name="js"}
+<script src="__ADMIN__/goods/goods.js?v={$v}" type="text/javascript"></script>
+{/block}
+{block name="main"}
+<form id="goodsForm" autocomplete="off">
+<table class='wst-form wst-box-top'>
+  <tr>
+      <th align='center'>{$title}</th>
+  </tr>
+  <tr>
+     <td colspan='2' align='center' class='wst-bottombar'>
+       <button type="submit"  class='btn btn-primary btn-mright'><i class="fa fa-check"></i>提交</button>
+       <button type="button" onclick="javascript:history.go(-1)" class='btn'><i class="fa fa-angle-double-left"></i>返回</button>
+     </td>
+  </tr>
+</table>
+</form>
+{/block}

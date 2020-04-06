@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:2:{i:0;a:3:{s:9:"articleId";i:23;s:12:"articleTitle";s:31:"错了这个村 没了这个店";s:8:"coverImg";N;}i:1;a:3:{s:9:"articleId";i:20;s:12:"articleTitle";s:13:"促销文章1";s:8:"coverImg";N;}}

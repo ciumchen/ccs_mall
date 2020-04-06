@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:1:{i:0;a:15:{s:9:"goodsTips";s:0:"";s:8:"shopName";s:15:"大数据专场";s:6:"shopId";i:1;s:7:"goodsId";i:86;s:9:"goodsName";s:12:"航天一号";s:8:"goodsImg";s:38:"upload/goods/2018-09/5b90e4f14b382.jpg";s:7:"goodsSn";s:15:"153622244182401";s:10:"goodsStock";i:200;s:7:"saleNum";i:0;s:9:"shopPrice";s:6:"100.00";s:11:"marketPrice";s:6:"120.00";s:6:"isSpec";i:0;s:11:"appraiseNum";i:0;s:8:"visitNum";i:7;s:5:"isNew";i:0;}}

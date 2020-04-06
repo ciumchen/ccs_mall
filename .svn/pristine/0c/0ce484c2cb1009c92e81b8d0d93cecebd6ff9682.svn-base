@@ -1,0 +1,44 @@
+<?php
+namespace wstmart\mobile\controller;
+use wstmart\common\model\UserScores as MUserscores;
+/**
+ *
+ * 地区控制器
+ */
+class Userscores extends Base{
+    // 前置方法执行列表
+    protected $beforeActionList = [
+        'checkAuth'
+    ];
+	/**
+    * 查看
+    */
+	public function index(){
+        $userName = (int)session('WST_USER.userName');
+        # halt($userName);
+        # 连接会员中心数据库
+        $user = Db::connect('member')->table('m_users')->where(['mobile' => $userName, 'status' => 1])->field('gold')->find();
+        $userId = $user['uid'];
+        halt($user);
+		# $rs = model('Users')->getFieldsById((int)session('WST_USER.userId'),['userScore','userTotalScore']);
+		$this->assign('object',$user);
+		return $this->fetch('users/userscores/list');
+	}
+    /**
+    * 获取数据
+    */
+    public function pageQuery(){
+        $userId = (int)session('WST_USER.userId');
+        $data = model('UserScores')->pageQuery($userId);
+        return WSTReturn("", 1,$data);
+    }
+    /**
+     * 签到积分
+     */
+    public function signScore(){
+    	$m = new MUserscores();
+    	$userId = (int)session('WST_USER.userId');
+    	$rs = $m->signScore($userId);
+    	return $rs;
+    }
+}

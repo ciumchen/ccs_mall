@@ -1,0 +1,4 @@
+<?php
+//000000086400
+ exit();?>
+think_serialize:a:5:{i:0;a:4:{s:7:"brandId";i:10;s:8:"brandImg";s:39:"upload/brands/2018-08/5b8659c12ba41.png";s:9:"brandName";s:9:"金龙鱼";s:5:"catId";i:47;}i:1;a:4:{s:7:"brandId";i:26;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba0736ed9285.jpg";s:9:"brandName";s:3:"LET";s:5:"catId";i:47;}i:2;a:4:{s:7:"brandId";i:27;s:8:"brandImg";s:39:"upload/brands/2018-09/5ba073797e443.jpg";s:9:"brandName";s:6:"博金";s:5:"catId";i:47;}i:3;a:4:{s:7:"brandId";i:29;s:8:"brandImg";s:39:"upload/brands/2018-09/5b8f3f015165f.jpg";s:9:"brandName";s:9:"五朵梅";s:5:"catId";i:47;}i:4;a:4:{s:7:"brandId";i:30;s:8:"brandImg";s:39:"upload/brands/2018-09/5b8f4c6bd3cf8.jpg";s:9:"brandName";s:9:"香汇隆";s:5:"catId";i:47;}}

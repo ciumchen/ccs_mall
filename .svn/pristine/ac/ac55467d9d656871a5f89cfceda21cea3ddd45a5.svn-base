@@ -1,0 +1,4 @@
+<?php
+//000000000000
+ exit();?>
+think_serialize:a:1:{i:0;a:8:{s:4:"adId";i:54;s:6:"adName";s:3:"212";s:5:"adURL";s:0:"";s:8:"subTitle";s:0:"";s:6:"adFile";s:39:"upload/adspic/2018-09/5b8d16b852c93.jpg";s:13:"positionWidth";i:375;s:14:"positionHeight";i:60;s:6:"isOpen";b:0;}}
